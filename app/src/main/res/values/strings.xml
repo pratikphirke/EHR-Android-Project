@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EHR</string>
+    <string name="email">Email</string>
+    <string name="password">Password*</string>
+    <string name="login">Sign In</string>
+    <string name="name">Name*</string>
+    <string name="contact">Contact*</string>
+    <string name="address">Address*</string>
+    <string name="age"> Age</string>
+    <string name="Bloodgrp">Blood Group*</string>
+    <string name="prevtret">Previous Treatment</string>
+    <string name="cpassword">Confirm Password*</string>
+    <string name="register">Register</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_ndashboard">NDashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="settings">Logout</string>
+    <string name="title_activity_main2_nav">EHR</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
